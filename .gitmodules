@@ -1,3 +1,6 @@
 [submodule "Assets/Libraries/brainvr-unity-framework"]
 	path = Assets/Libraries/brainvr-unity-framework
 	url = https://github.com/BrainVR/brainvr-unity-framework
+[submodule "docs"]
+	path = docs
+	url = https://github.com/BrainVR/brainvr-unity-framework-documentation.git
