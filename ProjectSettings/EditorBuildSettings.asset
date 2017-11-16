@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
+    path: Assets/Libraries/brainvr-unity-framework/Scenes/MainMenu.unity
     guid: 5edab072b7fd2e7459f78bfb29f8d551
   - enabled: 1
-    path: Assets/Scenes/Demo.unity
-    guid: 843537cdde4030640aa251311a368cb9
+    path: Assets/Libraries/brainvr-unity-framework/Demo/Scenes/Demo.unity
+    guid: 7fa3844f81ab00b41845fc1ab5607e74
