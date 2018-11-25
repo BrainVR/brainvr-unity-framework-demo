@@ -139,7 +139,7 @@ namespace DevConsole{
 				if (!moving)
 					GUI.FocusControl("TextField");
 				//KEYS
-				if (current.type == EventType.keyDown){
+				if (current.type == EventType.KeyDown){
 					if (!string.IsNullOrEmpty(inputText)){
 						switch(current.keyCode){
 						case KeyCode.Return:
